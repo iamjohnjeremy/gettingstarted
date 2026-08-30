@@ -12,16 +12,6 @@
           </set>
         </option>
       </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/demo-kotlin" />
-        <option name="gradleJvm" value="#JAVA_HOME" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/demo-kotlin" />
-          </set>
-        </option>
-        <option name="myGradleHome" value="C:\Program Files\gradle\gradle-9.7.1" />
-      </GradleProjectSettings>
     </option>
   </component>
 </project>

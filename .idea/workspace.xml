@@ -5,14 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="694ee6c8-cea3-4fe4-ba68-3c24fa8d924a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/.gradle/9.6.0/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/.gradle/9.6.0/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/.gradle/9.6.0/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/.gradle/9.6.0/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/.gradle/9.6.0/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/.gradle/9.6.0/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/.gradle/9.6.0/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/.gradle/9.6.0/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/.gradle/9.6.0/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/.gradle/9.6.0/kotlin-dsl-plugin-entries/jar-entries.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/.gradle/9.6.0/kotlin-dsl-plugin-entries/kotlin-dsl-plugin-entries.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-kotlin/src/main/kotlin/Main.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/demo/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/sample/demo/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/sample/demo/HomeController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,14 +52,12 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$/demo">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="demo" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -63,61 +80,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.7794152997533593E-203" />
-      <entry key="MS500" value="2.8187428920802346E-41" />
-      <entry key="S2" value="7.286414379801089E-11" />
-      <entry key="S5" value="8.810601257768615E-5" />
-      <entry key="S10" value="0.009387926672597168" />
-      <entry key="S30" value="0.3624529978720926" />
-      <entry key="S60" value="3.8754258950029556" />
-      <entry key="M2" value="21.141086394295222" />
-      <entry key="M5" value="91.72757846890885" />
-      <entry key="M10" value="208.2935424734654" />
-      <entry key="M15" value="302.9873852729815" />
-      <entry key="M30" value="482.35050612342206" />
-      <entry key="H1" value="639.2273479940666" />
-      <entry key="H2" value="747.849500341667" />
-      <entry key="H4" value="812.6480010480769" />
-      <entry key="D1" value="873.1220438152487" />
-      <entry key="W1" value="884.1434752890068" />
+      <entry key="MS100" value="2.0886567292603644" />
+      <entry key="MS500" value="3.5893794786249957" />
+      <entry key="S2" value="7.259063593546843" />
+      <entry key="S5" value="13.85330773216942" />
+      <entry key="S10" value="21.78287945865109" />
+      <entry key="S30" value="39.269568412760854" />
+      <entry key="S60" value="54.83981185533321" />
+      <entry key="M2" value="74.71160516274374" />
+      <entry key="M5" value="127.880123318686" />
+      <entry key="M10" value="231.18813454420615" />
+      <entry key="M15" value="325.90208124946724" />
+      <entry key="M30" value="520.625852534465" />
+      <entry key="H1" value="701.4751886238997" />
+      <entry key="H2" value="830.7611666417683" />
+      <entry key="H4" value="909.1861891315765" />
+      <entry key="D1" value="983.1567010917016" />
+      <entry key="W1" value="996.7140658428866" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.000000000000004" />
-      <entry key="S30" value="1.0000159756883964" />
-      <entry key="S60" value="1.004789344700428" />
-      <entry key="M2" value="1.185350496317292" />
-      <entry key="M5" value="4.373213429990541" />
-      <entry key="M10" value="11.705087514071714" />
-      <entry key="M15" value="17.342739112248594" />
-      <entry key="M30" value="26.84009240441617" />
-      <entry key="H1" value="34.2591778931058" />
-      <entry key="H2" value="39.091322659931464" />
-      <entry key="H4" value="41.89024985220913" />
-      <entry key="D1" value="44.45800730497988" />
-      <entry key="W1" value="44.9219616960594" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.318616650699309E-97" />
+      <entry key="S2" value="6.026007097616857E-25" />
+      <entry key="S5" value="2.0512181730389695E-10" />
+      <entry key="S10" value="1.432207488035933E-5" />
+      <entry key="S30" value="0.024358775403428602" />
+      <entry key="S60" value="0.16447542788494615" />
+      <entry key="M2" value="0.5046746232219903" />
+      <entry key="M5" value="2.3787069520988853" />
+      <entry key="M10" value="8.105074417174897" />
+      <entry key="M15" value="13.513688892127124" />
+      <entry key="M30" value="23.844957511803074" />
+      <entry key="H1" value="32.617799159972215" />
+      <entry key="H2" value="38.55687223260179" />
+      <entry key="H4" value="42.060547413255655" />
+      <entry key="D1" value="45.310118614725056" />
+      <entry key="W1" value="45.90058611903058" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="5.161220901178612E-4" />
-      <entry key="MS500" value="0.22006475339078774" />
-      <entry key="S2" value="0.6849164899887525" />
-      <entry key="S5" value="0.859550531747593" />
-      <entry key="S10" value="0.932794468099379" />
-      <entry key="S30" value="1.3051297028925979" />
-      <entry key="S60" value="4.83054334666368" />
-      <entry key="M2" value="22.289161924093964" />
-      <entry key="M5" value="96.06604826824208" />
-      <entry key="M10" value="219.96068638125575" />
-      <entry key="M15" value="320.2939787772977" />
-      <entry key="M30" value="509.1630799137296" />
-      <entry key="H1" value="673.4689623987728" />
-      <entry key="H2" value="786.930780439831" />
-      <entry key="H4" value="854.5328611332518" />
-      <entry key="D1" value="917.579096167143" />
-      <entry key="W1" value="929.0652990964287" />
+      <entry key="MS100" value="1.9705656573132888" />
+      <entry key="MS500" value="3.5485049289989714" />
+      <entry key="S2" value="7.238226692397245" />
+      <entry key="S5" value="13.836672297133381" />
+      <entry key="S10" value="21.768962682686986" />
+      <entry key="S30" value="39.28462375435838" />
+      <entry key="S60" value="54.996242065142745" />
+      <entry key="M2" value="75.20689097628507" />
+      <entry key="M5" value="130.2420188190252" />
+      <entry key="M10" value="239.26768424044408" />
+      <entry key="M15" value="339.38808834156544" />
+      <entry key="M30" value="544.4466133864286" />
+      <entry key="H1" value="734.0763976618534" />
+      <entry key="H2" value="869.3082017249594" />
+      <entry key="H4" value="951.2413595432516" />
+      <entry key="D1" value="1028.4658523226274" />
+      <entry key="W1" value="1042.6145119106848" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -131,29 +148,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/johnj/IdeaProjects/gettingstarted/demo-kotlin/src/main/kotlin/Main.kt",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2413793",
-    "settings.editor.selected.configurable": "preferences.language.and.region"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/johnj/IdeaProjects/gettingstarted/demo-kotlin/src/main/kotlin/Main.kt&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2413793&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.and.region&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
