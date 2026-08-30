@@ -5,22 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="694ee6c8-cea3-4fe4-ba68-3c24fa8d924a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/sample/demo/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gettingstarted.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/demo/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/sample/demo/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/sample/demo/HomeController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="28" />
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/demo">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/demo-kotlin">
       <ProjectState />
     </projectState>
   </component>
@@ -57,66 +63,66 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.7126091291967662" />
-      <entry key="MS500" value="3.5117310383261464" />
-      <entry key="S2" value="8.857468844275719" />
-      <entry key="S5" value="16.851612133204142" />
-      <entry key="S10" value="24.974302928214325" />
-      <entry key="S30" value="38.33935507875784" />
-      <entry key="S60" value="47.34117561090027" />
-      <entry key="M2" value="56.849874899812875" />
-      <entry key="M5" value="70.53689124746704" />
-      <entry key="M10" value="80.08999514045324" />
-      <entry key="M15" value="84.47513403206547" />
-      <entry key="M30" value="89.70888098298835" />
-      <entry key="H1" value="92.70721251127115" />
-      <entry key="H2" value="94.3147165656332" />
-      <entry key="H4" value="95.1473617877382" />
-      <entry key="D1" value="95.85648129685339" />
-      <entry key="W1" value="95.97946242364507" />
+      <entry key="MS100" value="1.7794152997533593E-203" />
+      <entry key="MS500" value="2.8187428920802346E-41" />
+      <entry key="S2" value="7.286414379801089E-11" />
+      <entry key="S5" value="8.810601257768615E-5" />
+      <entry key="S10" value="0.009387926672597168" />
+      <entry key="S30" value="0.3624529978720926" />
+      <entry key="S60" value="3.8754258950029556" />
+      <entry key="M2" value="21.141086394295222" />
+      <entry key="M5" value="91.72757846890885" />
+      <entry key="M10" value="208.2935424734654" />
+      <entry key="M15" value="302.9873852729815" />
+      <entry key="M30" value="482.35050612342206" />
+      <entry key="H1" value="639.2273479940666" />
+      <entry key="H2" value="747.849500341667" />
+      <entry key="H4" value="812.6480010480769" />
+      <entry key="D1" value="873.1220438152487" />
+      <entry key="W1" value="884.1434752890068" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="8.09753793132504E-35" />
-      <entry key="MS500" value="1.5193946687212722E-7" />
-      <entry key="S2" value="0.01974320475412256" />
-      <entry key="S5" value="0.20804968367788115" />
-      <entry key="S10" value="0.4561246361224978" />
-      <entry key="S30" value="0.7697762980630082" />
-      <entry key="S60" value="0.8815714372607221" />
-      <entry key="M2" value="1.0488758041862365" />
-      <entry key="M5" value="1.7798236904194675" />
-      <entry key="M10" value="2.54158582144649" />
-      <entry key="M15" value="2.926751583454992" />
-      <entry key="M30" value="3.40526426042149" />
-      <entry key="H1" value="3.6864700473547294" />
-      <entry key="H2" value="3.8389700989274527" />
-      <entry key="H4" value="3.9183894038839657" />
-      <entry key="D1" value="3.9862434982398707" />
-      <entry key="W1" value="3.9980309621434422" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.000000000000004" />
+      <entry key="S30" value="1.0000159756883964" />
+      <entry key="S60" value="1.004789344700428" />
+      <entry key="M2" value="1.185350496317292" />
+      <entry key="M5" value="4.373213429990541" />
+      <entry key="M10" value="11.705087514071714" />
+      <entry key="M15" value="17.342739112248594" />
+      <entry key="M30" value="26.84009240441617" />
+      <entry key="H1" value="34.2591778931058" />
+      <entry key="H2" value="39.091322659931464" />
+      <entry key="H4" value="41.89024985220913" />
+      <entry key="D1" value="44.45800730497988" />
+      <entry key="W1" value="44.9219616960594" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.6213675450722476" />
-      <entry key="MS500" value="3.478376787728965" />
-      <entry key="S2" value="8.852184643077461" />
-      <entry key="S5" value="17.018307416382527" />
-      <entry key="S10" value="25.38863077805531" />
-      <entry key="S30" value="39.08548889560247" />
-      <entry key="S60" value="48.20877160658486" />
-      <entry key="M2" value="57.88952183352773" />
-      <entry key="M5" value="72.30852065378154" />
-      <entry key="M10" value="82.6249694142206" />
-      <entry key="M15" value="87.39660133336456" />
-      <entry key="M30" value="93.11094735782099" />
-      <entry key="H1" value="96.39191769272642" />
-      <entry key="H2" value="98.15275886128997" />
-      <entry key="H4" value="99.06527542490775" />
-      <entry key="D1" value="99.84264380656899" />
-      <entry key="W1" value="99.97748177389771" />
+      <entry key="MS100" value="5.161220901178612E-4" />
+      <entry key="MS500" value="0.22006475339078774" />
+      <entry key="S2" value="0.6849164899887525" />
+      <entry key="S5" value="0.859550531747593" />
+      <entry key="S10" value="0.932794468099379" />
+      <entry key="S30" value="1.3051297028925979" />
+      <entry key="S60" value="4.83054334666368" />
+      <entry key="M2" value="22.289161924093964" />
+      <entry key="M5" value="96.06604826824208" />
+      <entry key="M10" value="219.96068638125575" />
+      <entry key="M15" value="320.2939787772977" />
+      <entry key="M30" value="509.1630799137296" />
+      <entry key="H1" value="673.4689623987728" />
+      <entry key="H2" value="786.930780439831" />
+      <entry key="H4" value="854.5328611332518" />
+      <entry key="D1" value="917.579096167143" />
+      <entry key="W1" value="929.0652990964287" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="3Ic4jUflKCf0ox6ozHblYrPEUAo" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -141,6 +147,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/johnj/IdeaProjects/gettingstarted/demo-kotlin/src/main/kotlin/Main.kt",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2413793",
@@ -167,5 +174,21 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/demo/demo-kotlin/src/main/kotlin/Main.kt</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/demo-kotlin/src/main/kotlin/Main.kt</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
